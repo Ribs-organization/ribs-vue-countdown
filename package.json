@@ -1,0 +1,24 @@
+{
+  "name": "ribs-vue-countdown",
+  "version": "1.0.0",
+  "description": "create a time countdown component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ribs-organization/ribs-vue-countdown.git"
+  },
+  "keywords": [
+    "vuejs",
+    "countdown",
+    "ribs-component"
+  ],
+  "author": "Anthony Pilloud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ribs-organization/ribs-vue-countdown/issues"
+  },
+  "homepage": "https://github.com/Ribs-organization/ribs-vue-countdown#readme"
+}
